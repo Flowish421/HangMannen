@@ -19,6 +19,8 @@ User-Friendly Navigation: Game is controlled through keyboard input.
 Object-Oriented Design: The code is structured using object-oriented principles for easy extensibility.
 Installation
 To run the game, you will need:
-
+Packs needs to be installed.
+---------------------------------------
 .NET Core SDK installed on your computer.
 Spectre.Console NuGet package.
+---------------------------------------
